@@ -9,7 +9,7 @@ st.set_page_config(page_title="Anand Mohan Jha | Portfolio", layout="wide", page
 # --- SIDEBAR ---
 with st.sidebar:
     # This assumes PHOTO1.png is uploaded to your GitHub repo root
-    st.image("https://raw.githubusercontent.com/githuanand/anand-jha-portfolio/main/PHOTO1.png")
+    st.image("https://github.com/githuanand/anand-jha-portfolio/blob/main/PHOTO1.png")
     st.title("Anand Mohan Jha")
     st.write("📧 aj1001194@gmail.com")
     st.write("📞 +91 9339824377")
